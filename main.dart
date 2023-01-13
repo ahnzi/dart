@@ -1,4 +1,5 @@
 void main() {
-  final String name = 'ahnzi';
-  name = 'ahn';
+  late final String name;
+  // do something, go to API
+  print(name);
 }
