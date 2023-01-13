@@ -1,6 +1,5 @@
 void main() {
-  dynamic name;
-  if (name is String) {
-    name.allMatches("hi");
-  }
+  String? ahnzi = 'ahnzi';
+  ahnzi = null;
+  ahnzi?.isNotEmpty;
 }
