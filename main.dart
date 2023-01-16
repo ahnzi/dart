@@ -1,5 +1,3 @@
 void main() {
-  late final String name;
-  // do something, go to API
-  print(name);
+  const max_allowed_price = 120;
 }
